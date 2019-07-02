@@ -1,20 +1,18 @@
-#Web Timestamp Standard
+# Web Timestamp Standard
 
-##Attributes
-
-##Properties
+## Properties
 Required fields.
 
-###Post
+### Post
 * title
 * content
 * date (string, ISO 8601)
+
+## Attributes
+Optional fields, to be defined in markup.
 * previousVersion (string, SHA265)
 
-##Attributes
-Optional fields, to be defined in markup.
-
-##Hashing
+## Hashing
 A hash will be created of an JSON object, containing the required properties and optional attributes in a required order.
 ```
 {
@@ -25,7 +23,7 @@ A hash will be created of an JSON object, containing the required properties and
 }
 ```
 
-##Markup
+## Markup
 
 Example `microdata` markup for the BlogPosting schema. The markup should include the schema type, schema version, the properties for the type, optional attributes with both the key as value. 
 ```
