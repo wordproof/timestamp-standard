@@ -67,7 +67,19 @@ It should be clear how and what data was used when generating the hash. We are u
       "content": "Lorem Ipsum",
       "date": "2019-06-08T08:38:23+0000",
       "previousVersion": "3BD952F0459160463C502C86DA7ABD80A857207F8A1ED2D3B7A38B438CA0D071"
-    }
+    },
+		{
+      "@context": {
+        "@type": "WebArticleTimestamp",
+        "@version": 0.1
+      },
+      "chain": "eos",
+      "transactionId": "b5832cb36421e0c2a49e4250b906021b340c07e24ce4c22156cf7d7cbf9a1254",
+      "hash": "3BD952F0459160463C502C86DA7ABD80A857207F8A1ED2D3B7A38B438CA0D071",
+      "title": "My Blog Title",
+      "content": "Lorem",
+      "date": "2019-05-08T08:38:23+0000"
+    },
   ]
 }
 </script>
