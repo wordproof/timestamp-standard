@@ -56,7 +56,7 @@ It should be clear how and what data was used when generating the hash. We are u
   "previousVersion": "2DAD3812C721EF4A21541CCF1DB7C54BA1643294162B038ACDE8CF1CE7DA511B",
   "revisions": [
     {
-    	"@context": {
+      "@context": {
         "@type": "WebArticleTimestamp",
         "@version": 0.1
       },
@@ -67,7 +67,7 @@ It should be clear how and what data was used when generating the hash. We are u
       "content": "Lorem Ipsum",
       "date": "2019-06-08T08:38:23+0000",
       "previousVersion": "3BD952F0459160463C502C86DA7ABD80A857207F8A1ED2D3B7A38B438CA0D071"
-		}
+    }
   ]
 }
 </script>
