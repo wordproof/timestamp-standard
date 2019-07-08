@@ -9,4 +9,3 @@ Currently, we are proposing the following standards
 If you have ideas or suggestions, please get in touch, open an issue or send a pull request. To discuss the standard, get in touch on telegram.
 
 [WordProof Timestamp](https://t.me/wordproof)
-
