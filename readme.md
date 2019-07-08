@@ -2,7 +2,7 @@
 
 Currently, we are proposing the following standards
 
-- [WebArticleTimestamp]: https://github.com/wordproof/timestamp-standard/blob/master/WebArticleTimestamp.md
+[WebArticleTimestamp]: https://github.com/wordproof/timestamp-standard/blob/master/WebArticleTimestamp.md
 
 ## Contribute
 
