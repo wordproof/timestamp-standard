@@ -73,4 +73,3 @@ It should be clear how and what data was used when generating the hash. We are u
 }
 </script>
 ```
-
