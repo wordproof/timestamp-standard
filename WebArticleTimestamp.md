@@ -72,7 +72,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
         "@type": "WebArticleTimestamp",
         "@version": 0.1
       },
-      "chain": "eos",
+      "blockchain": "eos",
       "transactionId": "a4ce94cc4c0adda8075ac133b4de884a282e3de4ee1734d808a2e9737e06f5a1",
       "hash": "2DAD3812C721EF4A21541CCF1DB7C54BA1643294162B038ACDE8CF1CE7DA511B",
       "title": "My Blog Title",
@@ -85,7 +85,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
         "@type": "WebArticleTimestamp",
         "@version": 0.1
       },
-      "chain": "eos",
+      "blockchain": "eos",
       "transactionId": "b5832cb36421e0c2a49e4250b906021b340c07e24ce4c22156cf7d7cbf9a1254",
       "hash": "3BD952F0459160463C502C86DA7ABD80A857207F8A1ED2D3B7A38B438CA0D071",
       "title": "My Blog Title",
