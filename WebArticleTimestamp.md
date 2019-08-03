@@ -1,6 +1,6 @@
 # WebArticleTimestamp
 
-Version: 0.1
+Version: 0.1.1
 
 ...
 
@@ -24,9 +24,9 @@ The SHA-256 hash of the example above is `8C9453EF2C0C6F2F94104D16FF0A8105BC6C97
 
 Properties are required fields for every WebArticleTimestamp. 
 
-`type` - The type used
+`type` - String, The type used
 
-`version` - The version of the type used
+`version` - String, The version of the type used
 
 `title` - String, Text
 
@@ -57,7 +57,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
 {
   "@context": {
     "@type": "WebArticleTimestamp",
-    "@version": 0.1
+    "@version": "0.1.1"
   },
   "blockchain": "eos",
   "transactionId": "77ac208d9a01d0cf40345786da28accd2795f5a6a6cf3692168a2a71ca165708",
@@ -70,7 +70,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
     {
       "@context": {
         "@type": "WebArticleTimestamp",
-        "@version": 0.1
+        "@version": "0.1.1"
       },
       "blockchain": "eos",
       "transactionId": "a4ce94cc4c0adda8075ac133b4de884a282e3de4ee1734d808a2e9737e06f5a1",
@@ -83,7 +83,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
     {
       "@context": {
         "@type": "WebArticleTimestamp",
-        "@version": 0.1
+        "@version": "0.1.1"
       },
       "blockchain": "eos",
       "transactionId": "b5832cb36421e0c2a49e4250b906021b340c07e24ce4c22156cf7d7cbf9a1254",
