@@ -2,7 +2,7 @@
 
 Version: 0.1.1
 
-...
+In version 0.1.1 the `version` property changed from a float to a string to ensure compatability between many languages.
 
 ## Creating the hash
 
