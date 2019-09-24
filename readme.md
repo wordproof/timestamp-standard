@@ -2,7 +2,9 @@
 
 Currently, we are proposing the following standards
 
-* [WebArticleTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/WebArticleTimestamp.md)
+* [ArticleTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/ArticleTimestamp.md)
+* [WebPageTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/WebPage.md)
+* [ProductTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/ProductTimestamp.md)
 
 ## Contribute
 
