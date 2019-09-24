@@ -29,7 +29,7 @@ The SHA-256 hash of the example above is `8C9453EF2C0C6F2F94104D16FF0A8105BC6C97
 
 ### Properties
 
-Properties are required fields for every WebArticleTimestamp. 
+Properties are required fields for every ArticleTimestamp. 
 
 `type` - String, The type used
 
@@ -57,7 +57,7 @@ It should be clear how and what data was used when generating the hash. We are u
 
 With the included information in the JSON-LD object, third-parties can compare their and your results themselves.
 
-A WebArticleTimestamp can contain other objects of the same type, which are referred to as revisions. The **parent object always contains information about the most recent version of the article**.
+A ArticleTimestamp can contain other objects of the same type, which are referred to as revisions. The **parent object always contains information about the most recent version of the article**.
 
 ```json
 <script type="application/ld+json">
@@ -108,7 +108,7 @@ A WebArticleTimestamp can contain other objects of the same type, which are refe
 
 The implementation will differ per blockchain. Please include the following fields. 
 
-`hash` - String, SHA-256 has of article 
+`hash` - String, SHA-256 hash of the article 
 `previousTransactionId` - Optional, String - Blockchain Transaction Id with hash of the previous revision.
 
 Optionally you can include a memo including an url to enhance the user experience.
