@@ -4,7 +4,7 @@ Current Version: 0.2.0
 
 ## Changelog
 0.2.0
-- Draft of WebArticleTimestamp
+- Draft of MediaObjectTimestamp
 
 ## Creating the hash
 
