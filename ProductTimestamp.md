@@ -1,10 +1,10 @@
 # ProductTimestamp
 
-Current Version: 0.2
+Current Version: 0.2.0
 
 ## Changelog
-0.2
-- Draft of ProductTimestamp based on ArticleTimestamp 0.2.
+0.2.0
+- Draft of ProductTimestamp based on ArticleTimestamp 0.2.0.
 
 ## Creating the hash
 
@@ -28,7 +28,7 @@ Properties are required fields for every ProductTimestamp.
 
 `type` - Text, The type used, in this case ProductTimestamp
 
-`version` - Text, The version of the type used, in this case 0.2
+`version` - Text, The version of the type used, in this case 0.2.0
 
 `name` - Text, Name of the product
 
@@ -38,7 +38,7 @@ Properties are required fields for every ProductTimestamp.
 
 Attributes can be included, but are optional. Only items included in the standard can be added to the JSON object, in **alphabetical order, after the last property**. If the value of an attribute is empty, it should not be included in the object.
 
-`identifier` - Text, The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. 
+`productId` - The product identifier, such as ISBN. For example: isbn:123-456-789. 
 
 `image` - Text, Image URL
 
@@ -73,7 +73,7 @@ A ProductTimestamp can contain other objects of the same type, which are referre
     {
       "@context": {
         "@type": "ProductTimestamp",
-        "@version": "0.2"
+        "@version": "0.2.0"
       },
       "blockchain": "eos",
       "transactionId": "a4ce94cc4c0adda8075ac133b4de884a282e3de4ee1734d808a2e9737e06f5a1",
@@ -85,7 +85,7 @@ A ProductTimestamp can contain other objects of the same type, which are referre
     {
       "@context": {
         "@type": "ProductTimestamp",
-        "@version": "0.2"
+        "@version": "0.2.0"
       },
       "blockchain": "eos",
       "transactionId": "b5832cb36421e0c2a49e4250b906021b340c07e24ce4c22156cf7d7cbf9a1254",
