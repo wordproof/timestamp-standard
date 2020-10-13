@@ -6,6 +6,7 @@ Currently, we are proposing the following standards
 * [WebPageTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/WebPage.md)
 * [ProductTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/ProductTimestamp.md)
 * [MediaObjectTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/MediaObjectTimestamp.md)
+* [InvoiceTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/InvoiceTimestamp.md)
 
 ## Contribute
 
