@@ -30,7 +30,7 @@ The SHA-256 hash of the minified JSON example is `8f3bc404b509d6fabfa34ca6b2f5a3
 
 ### Properties
 
-Properties are required fields for every ArticleTimestamp. 
+Properties are required fields for every MediaObjectTimestamp. 
 
 `type` - String, The type used
 
