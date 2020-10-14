@@ -43,7 +43,7 @@ Properties are required fields for every InvoiceTimestamp.
 
 `encodingFormat` - String, Text, MIME
 
-`date` - String, ISO 8601
+`date` - String, ISO 8601, the last date of the item being modified in the source before timestamping it
 
 ### Attributes
 
