@@ -3,7 +3,7 @@
 Currently, we are proposing the following standards
 
 * [ArticleTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/ArticleTimestamp.md)
-* [WebPageTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/WebPage.md)
+* [WebPageTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/WebPageTimestamp.md)
 * [ProductTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/ProductTimestamp.md)
 * [MediaObjectTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/MediaObjectTimestamp.md)
 * [InvoiceTimestamp](https://github.com/wordproof/timestamp-standard/blob/master/InvoiceTimestamp.md)
